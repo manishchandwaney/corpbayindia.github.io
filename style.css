@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #fdfdfd;
+    color: #333;
+}
+header {
+    background: #f4c542;
+    color: #000;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+.logo {
+    max-width: 100px;
+    margin-bottom: 10px;
+}
+.about, .categories {
+    padding: 2rem;
+    line-height: 1.6;
+}
+.categories ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+.categories li {
+    margin-bottom: 10px;
+}
+footer {
+    background: #eee;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+}
+a {
+    color: #c14400;
+    text-decoration: none;
+}
